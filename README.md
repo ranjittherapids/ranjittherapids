@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjit Kumar Sah</h1>
 <h3 align="center">A passionate Mern And Bubble.io developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [ranjittherapids instagrame](ranjittherapids instagrame)
-
 - 💬 Ask me about **Mern stack and Bubble.io**
 
 - 📫 How to reach me **rapidskumar@gmail.com**
