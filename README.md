@@ -54,6 +54,6 @@ I am a passionate Full Stack Developer with 4+ years of experience building scal
 
 - 💼 LinkedIn: linkedin.com/in/ranjittherapids
 - 📧 Email: rapidskumar@gmail.com  
-- 🌐 Portfolio: https://yourportfolio.com  
+- 🌐 Portfolio: https://ranjittherapids.github.io/portfolio/
 
 ---
